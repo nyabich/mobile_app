@@ -1,0 +1,8 @@
+<Text style={styles.lien}>
+                  Vous avez déjà un compte ? 
+              </Text>
+          <TouchableOpacity style={styles.lienC} onPress={()=>this._pageConnexion()}>
+                <Text style={styles.lienC}> 
+                    Connectez vous 
+                  </Text> 
+              </TouchableOpacity>
